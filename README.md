@@ -42,8 +42,10 @@ Rule has been created and active.
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ae1d8eb2-f693-4b4c-a2aa-6a59bccf0670" alt="Description" width="800">
+  <img src="https://github.com/user-attachments/assets/e1cae93a-cb29-4ba8-a55d-37dc433aa6f6" alt="Description" width="800">
 </p>
+
+---
 
 ## NIST 800-61: Incident Response Lifecycle
 
