@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d2cf0bc5-27bc-450f-baa8-9352b5a738f7" alt="Description" width="400">
+  <img src="https://github.com/user-attachments/assets/d2cf0bc5-27bc-450f-baa8-9352b5a738f7" alt="Description" width="600">
 </p>
 
 
@@ -44,7 +44,7 @@ Rule has been created and active.
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e1cae93a-cb29-4ba8-a55d-37dc433aa6f6" alt="Description" width="800">
+  <img src="https://github.com/user-attachments/assets/e1cae93a-cb29-4ba8-a55d-37dc433aa6f6" alt="Description" width="600">
 </p>
 
 ---
