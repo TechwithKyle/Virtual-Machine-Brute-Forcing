@@ -1,3 +1,4 @@
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/d2cf0bc5-27bc-450f-baa8-9352b5a738f7" />
 
 
 # Virtual Machine Brute Forcing
@@ -32,7 +33,7 @@ Rule has been created and active.
 
 ---
 
-<img width="316" height="159" alt="image" src="https://github.com/user-attachments/assets/dba6c8e4-67af-43f8-b5bb-aa82d7b26b73" />
+<img width="374" height="135" alt="image" src="https://github.com/user-attachments/assets/ae1d8eb2-f693-4b4c-a2aa-6a59bccf0670" />
 
 ## NIST 800-61: Incident Response Lifecycle
 
@@ -67,7 +68,7 @@ DeviceLogonEvents
 
 ## Investigation
 
-I checked to see if any of the IP addresses attemtping to brute force successfully logged in but none were successful: 
+I checked to see if any of the IP addresses attempting to brute force successfully logged in but none were successful: 
 
 **Query used to locate event:**
 
