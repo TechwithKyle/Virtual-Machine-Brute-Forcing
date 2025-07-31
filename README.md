@@ -9,9 +9,13 @@
 - EDR Platform: Microsoft Defender for Endpoint
 - Kusto Query Language (KQL)
 
+---
+
 ##  Scenario
 
 When entities (local or remote users, usually) attempt to log into a virtual machine, a log will be created on the local machine and then forwarded to Microsoft Defender for Endpoint under the DeviceLogonEvents table. These logs are then forwarded to the Log Analytics Workspace being used by Microsoft Sentinel, SIEM.
+
+---
 
 # Creating an alert rule in Sentinel 
 
@@ -78,6 +82,7 @@ I searched for these two IP's to see if I could gather any further information o
 
 <img width="609" height="525" alt="image" src="https://github.com/user-attachments/assets/cf6305c6-7b0a-4736-8e7e-1b2e391ef27d" />
 
+---
 
 I then checked to see if any of the IP addresses attempting to brute force successfully logged in but none were successful: 
 
