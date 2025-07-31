@@ -1,4 +1,6 @@
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/d2cf0bc5-27bc-450f-baa8-9352b5a738f7" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2cf0bc5-27bc-450f-baa8-9352b5a738f7" alt="Description" width="400">
+</p>
 
 
 # Virtual Machine Brute Forcing
