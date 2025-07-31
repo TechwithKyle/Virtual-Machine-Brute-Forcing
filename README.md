@@ -23,6 +23,8 @@ Step 1 (defining rule):
 
 <img width="1912" height="1154" alt="image" src="https://github.com/user-attachments/assets/9c300e3d-ab6e-4ef5-b7f6-a49255285d94" />
 
+---
+
 Step 2 (setting entity mapping):
 
 Entity Mapping - helps connect data from analytics rules to specific entities (like IP addresses, user accounts, devices, or URLs). This allows Sentinel to understand who or what is involved in a security event. Proper entity mapping improves investigation, threat hunting, and visualizations by linking alerts to the right people or systems.
